@@ -1,0 +1,8 @@
+fb60f7faf5ab4d9f7248f9d0cace0c70 *DESCRIPTION
+a8b749ef9c1366166e07bb9c43c2297f *LICENSE
+c9a7d1876e434262f263b88b53ad9e4b *NAMESPACE
+590d8eef9d82c5c030922f34c09164d7 *R/intrinio_stock_api-package.R
+68613017f7fc1ab64e32a63e258ba25a *R/intrinio_stock_api.R
+dfd01417c3c46bf285f555aded5f42a4 *README.md
+59e9f0512cad81e115c00aba1559f0b8 *man/IntrinioStockAPI.Rd
+21426899211683daf7759aa474a059ee *man/intrinio_fetch.Rd
